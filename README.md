@@ -2,6 +2,11 @@
 SaPrAn is an Android App developed as a part of the **Microsoft** **Hackathon** held at **IIT Jodhpur**. 
 <br/> The project scored a second runners-up podium & thus qualified for the finalist forum to he held later.
 <br/>
+Team Members
+</br>
+Pranjal Singh </br> 
+Vivek Lata </br>
+
 ## Installation
 The repositry contains an APK of the app, whilst also containing the sample code. You can access the code via 2 ways :- <br/> 
 1. **Download APK** <br/>
