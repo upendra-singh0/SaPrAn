@@ -1,5 +1,5 @@
 # SaPrAn
-SaPrAn is an Android App developed as a part of the **Microsoft** **Hackathon** held at IIT Jodhpur. 
+SaPrAn is an Android App developed as a part of the **Microsoft** **Hackathon** held at **IIT Jodhpur**. 
 <br/> The project scored a second runners-up podium & thus qualified for the finalist forum to he held later.
 <br/>
 ## Installation
