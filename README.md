@@ -26,5 +26,7 @@ The app has the following features :- <br/>
 </br>
 ⋅⋅* [Android Image Slider](https://github.com/daimajia/AndroidImageSlider "Android Image Slider")
 </br>
-⋅⋅* [Microsoft Azure](https://azure.microsoft.com/en-in/ "Microsoft Azure")
-
+⋅⋅* [Microsoft Azure Blob Service REST API](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/blob-service-rest-api "Microsoft Azure Blob Service REST API")
+</br>
+⋅⋅* [Microsoft Cognitive Service Computer Vision API](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api "Microsoft Cognitive Service Computer Vision API")
+</br>
